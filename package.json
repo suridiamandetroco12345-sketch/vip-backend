@@ -1,0 +1,14 @@
+{
+  "name": "vip-backend",
+  "version": "1.0.0",
+  "description": "VIP Backend for Appwrite",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-appwrite": "^8.0.0",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
